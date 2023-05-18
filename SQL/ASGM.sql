@@ -4,9 +4,9 @@
 --  SP2 Tạo Stored Procedure (SP) với các tham số đầu vào phù hợp có thể thực hiện
 -- CRUD được bảng KhachHang:
 -- Yêu cầu mỗi SP khi thêm vào phải kiểm tra tham số đầu vào và đẩy ra lỗi nếu không
--- thỏa mãn.
+-- thỏa mãn.sdgsg
 -- Đối với bảng KhachHang phải check [MaKhachHang] ,[TenHoKH] ,[TenDemKH]
--- ,[TenKH] ,[NgaySinh] ,[SoDienThoai] ,[DiaChi1] ,[DiaChi2] ,[GioiTinh],
+-- ,[TenKH] ,[NgaySinh] ,[SoDienThoai] ,[DiaChi1] ,[DiaChi2] ,[GioiTinh],dgsdfhg
 -- [ThanhPho] khác null. Check thêm [TenHoKH] ,[TenDemKH] ,[TenKH] phải từ 5
 -- ký tự trở lên.
 -- Bảng SanPham Check [MaSanPham] và [TenSanPham] khác null.
